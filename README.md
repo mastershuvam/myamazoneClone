@@ -1,0 +1,2 @@
+# myamazoneClone
+MY Amazon
